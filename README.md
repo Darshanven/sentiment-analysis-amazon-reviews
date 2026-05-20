@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Amazon-Alexa-Reviews
 
 ## Watch Video: https://www.youtube.com/watch?v=6A2w-KYG4Ko
@@ -32,3 +33,6 @@ Step 5: The app will run on port 5000.
 localhost:5000
 ```
 ## NOTE: The issue raised is fixed, please download the .zip folder and run it.
+=======
+# sentiment-analysis-amazon-reviews
+>>>>>>> 52c3181eb7c898fb5ecc5cee55097b9743d0ac8e
